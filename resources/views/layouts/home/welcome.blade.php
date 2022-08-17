@@ -62,11 +62,6 @@
         padding-bottom: 100px !important;
     }
 
-    .footer {
-        position: absolute;
-        bottom: 0;
-    }
-
     html,
     body {
         height: 100%;
