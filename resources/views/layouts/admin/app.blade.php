@@ -23,7 +23,7 @@
     <link id="pagestyle" href={{ asset('assets/css/material-dashboard.css?v=3.0.2') }} rel="stylesheet" />
 </head>
 
-<body  class="g-sidenav-show dark-version  bg-gray-100">
+<body  class="g-sidenav-show">
     <div id="adapp">
         <Layout></Layout>
     </div>
