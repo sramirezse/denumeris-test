@@ -1,17 +1,7 @@
 
 # Prueba para vacante fullstack developer 
 
-Una prueba para la vacante de fullstack developere en Denumeris Agency
-
-
-
-
-# Prueba para vacante fullstack developer 
-
-Una prueba para la vacante de fullstack developere en Denumeris Agency
-
-
-
+Una prueba para la vacante de fullstack developer en Denumeris Agency
 
 ## Authors
 
